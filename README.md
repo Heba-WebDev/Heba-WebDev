@@ -4,7 +4,7 @@
 - 💻 Currently, I'm more focused on Backend development, but I'm always ready to jump into Frontend work when needed 
 - 🌱 Technologies I've worked with include Node.js (Express & Nest), ASP.NET Core, Next.js, and PostgreSQL
 - 📙 Always learning
-- 💞️ I'm open to collaborating on both short-term and long-term projects
+- 💞️ I'm open to collaborating on projects
 - 📫 How to reach me? Contact me on <a href="https://twitter.com/jr_dev20" target="blank">Twitter</a> or <a href="https://linkedin.com/in/heba-ismael-omar-645965252" target="blank">LinkedIn</a> 
 
 
